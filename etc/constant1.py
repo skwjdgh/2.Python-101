@@ -1,0 +1,1 @@
+{"nbformat":4,"nbformat_minor":0,"metadata":{"colab":{"provenance":[],"authorship_tag":"ABX9TyPRb5AxBcF6b5LSphCfHnQ6"},"kernelspec":{"name":"python3","display_name":"Python 3"},"language_info":{"name":"python"}},"cells":[{"cell_type":"code","execution_count":null,"metadata":{"id":"BGrQN6AA36ZH"},"outputs":[],"source":["PI = 3.14\n","GRAVITY = 9.8"]}]}
