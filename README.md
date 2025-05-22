@@ -1,3 +1,7 @@
+<p align>
+  <img src = "https://capsule-render.vercel.app/api?type=blur&height=200&color=gradient&text=PYTHON101&descAlign=59&section=header">
+
+
 # Python 101
 
 이 레포지토리는 파이썬 입문자를 위한 학습 기록을 모은 공간입니다. 각 날짜별로 학습한 내용을 Jupyter Notebook 형식으로 정리두었으며, 연습하고, 아이디어 구상도 일부 포함되어 있습니다.
