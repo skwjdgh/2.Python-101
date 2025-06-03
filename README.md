@@ -1,12 +1,34 @@
-<p align>
-  <img src = "https://capsule-render.vercel.app/api?type=blur&height=200&color=gradient&text=PYTHON101&descAlign=59&section=header">
+
+<h1 align="center">
+  
+  <a href="https://github.com/skwjdgh">
+    <img align="center" src="https://img.shields.io/badge/goto-Main-green.svg" />
+  </a>
+
+  <a href="https://github.com/skwjdgh/Back">
+    <img align="center" src="https://img.shields.io/badge/goto-Back-green.svg" />
+  </a>
+  
+</h1>
+
+<p align="center">
+  <img align="center" src = "https://capsule-render.vercel.app/api?type=blur&height=200&color=gradient&text=PYTHON101&descAlign=59&section=header">
 
 
-# Python 101
+## 🗂 문서 개요
 
-이 레포지토리는 파이썬 입문자를 위한 학습 기록을 모은 공간입니다. 각 날짜별로 학습한 내용을 Jupyter Notebook 형식으로 정리두었으며, 연습하고, 아이디어 구상도 일부 포함되어 있습니다.
+이 저장소는 Python 학습을 위한 개인 스터디 공간입니다. 각 날짜별로 학습한 내용을 Jupyter Notebook 형식으로 정리두었으며, 연습하고, 아이디어 구상도 일부 포함되어 있습니다.
 
-##  폴더 구성
+### ✅ 주요 학습 주제 예시
+
+- 파이썬 기본 문법 (변수, 자료형, 연산자)
+- 제어문 (조건문, 반복문)
+- 함수 정의 및 활용
+- 자료구조 (리스트, 튜플, 딕셔너리, 집합)
+- 파일 입출력
+- 클래스 정의 및 활용
+
+### ✅ 일별 학습 내용
 
 - 250415  - 볼링게임3 (상수, 변수 및 자료형 초기화, 점수계산 함수, 보너스 점수 함수, 볼링게임 구조)
 - 250410  - 공약수, 인구조사 연구, 볼링게임 연구, 파일 입출
@@ -22,21 +44,23 @@
 - 250306  - 파이썬 용법
 - 250305  - 비 없는 수업내용 정리, 코랩 사용법 및 주소 확인.
 
-- etc - 연습장, 코랩 내 상수 사용 조사
+---
 
-- 과제  
+## 🛠️ 개발 환경
 
-##  주요 학습 주제
+- **OS**: Windows 11  
+- **Tool**: Google Colab, Pycharm
 
-- 파이썬 기본 문법 (변수, 자료형, 연산자)
-- 제어문 (조건문, 반복문)
-- 함수 정의 및 활용
-- 자료구조 (리스트, 튜플, 딕셔너리, 집합)
-- 파일 입출력
-- 클래스 정의 및 활용
+### 🧩 Oracle 설치 및 환경 설정
 
 ---
 
-##  👨‍💻상위REPO로 돌아가기
-[![BACK](https://img.shields.io/badge/BACK-181717?style=plastic&logo=github&logoColor=white)](https://github.com/skwjdgh/Back)
+## 📦 문서 구조
 
+---
+###  👨‍💻상단으로 돌아가기
+<h1 align="center">
+        <a href="https://github.com/skwjdgh/Python101_study">
+    <img align="center" src="https://img.shields.io/badge/backto-Top-green.svg" />
+  </a>
+</h1>
